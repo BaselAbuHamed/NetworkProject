@@ -1,0 +1,74 @@
+h1{
+    color: black;
+    text-align: center;
+  
+  }
+  #course-id {
+    color: #0070C0;
+    font-weight: 700;
+    text-align: center;
+  }
+  #title {
+    
+    size: 100%;
+    background-color: wheat;
+    border-radius: 1.5rem;
+    max-width: 100%;
+    height: auto;
+    font-size: 35px;
+  }
+  
+  
+  .card {
+    color: black;
+    border-radius: 50px 50px 0 0;
+    background-color: wheat;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 40%;
+    
+    font-size: 30px;
+  }
+  
+  .card:hover {
+  
+    box-shadow: 0 8px 40px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  img {
+    border-radius: 50px 50px 0 0;
+  }
+  
+  .container {
+    border-radius: 50px 50px 0 0;
+    padding: 2px 2px;
+    text-align: center;
+  
+  }
+  .row {
+    display: flex;
+  }
+  span{
+  width: 30px;
+  
+  }
+  body {
+    background-image: url('wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .height {
+    padding: 30px;
+    text-align: center;
+    align-items: center;
+
+  }
+  .footer{
+    align-items: center;
+    text-align: center;
+  }
+  p{
+    font-size: 20px;
+    color: black;
+  }
